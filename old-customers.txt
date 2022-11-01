@@ -1,0 +1,98 @@
+
+Customer ID: 24
+Name: BAISHALI
+Age: 28
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: BAISHALI
+Age: 28
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: HIMANSHU
+Age: 28
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 23
+Name: himanshu
+Age: 28
+Mobile Number: 94
+Address: house
+Gender: number
+
+Customer ID: 1
+Name: hima
+Age: 28
+Mobile Number: 9468346028
+Address: house
+Gender: number
+
+Customer ID: 23
+Name: pradyumn
+Age: 29
+Mobile Number: 8366902597
+Address: agartala
+Gender: male
+
+Customer ID: 99
+Name: kayyum
+Age: 26
+Mobile Number: 9468346028
+Address: hello
+Gender: world
+
+Customer ID: 28
+Name: chestha
+Age: 56
+Mobile Number: 98945
+Address: hewllo
+Gender: ld
+
+Customer ID: 5
+Name: shailesh
+Age: 22
+Mobile Number: 8080808080
+Address: jdfkljgl
+Gender: male
+
+Customer ID: 0
+Name: 
+Age: 9513468
+Mobile Number: 196
+Address: 
+Gender: 
+
+Customer ID: 0
+Name: 
+Age: 8006112
+Mobile Number: 6
+Address: 
+Gender: 
+
+Customer ID: 6
+Name: PRAKHAR
+Age: 26
+Mobile Number: 8369902597
+Address: SJDLFJDL
+Gender: MALE
+
+Customer ID: 0
+Name: 
+Age: 15542752
+Mobile Number: 6
+Address: 
+Gender: 
+
+Customer ID: 78
+Name: KAYYUM
+Age: 23
+Mobile Number: 74593754975
+Address: LDSJLF
+Gender: MALE
